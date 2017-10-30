@@ -1,0 +1,23 @@
+
+/*
+  STYLESHEET:
+	selector { property:value }
+*/
+
+h1 {
+  color: red;
+}
+
+h2 {
+  color: blue;
+}
+
+a {
+  font-family: Arial, sans-serif;
+  font-size: 70px;
+}
+
+a:link    { color: blue;  }
+a:visited { color: red;   }
+a:hover   { color: green; }
+a:active  { color: pink;  }
